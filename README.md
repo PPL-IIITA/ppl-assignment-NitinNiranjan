@@ -1,2 +1,3 @@
 # ppl-assignment-NitinNiranjan
-ppl-assignment-NitinNiranjan created by GitHub Classroom
+Nitin Pate
+RIT2015070
