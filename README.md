@@ -1,3 +1,3 @@
 # ppl-assignment-NitinNiranjan
-Nitin Pate
+Nitin Patel
 RIT2015070
